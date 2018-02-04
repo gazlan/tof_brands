@@ -1,0 +1,7 @@
+-*-   tof_brands 1.0  *   Copyright (c) Gazlan, 2015   -*-
+
+TECDOC_CD_3_2015 DB tof_brands dumper
+
+Usage: tof_brands.com
+
+complains_n_suggestions direct to gazlan@yandex.ru
